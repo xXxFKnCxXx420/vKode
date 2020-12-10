@@ -1,1 +1,2 @@
 # vKode
+Pozz ljudi
